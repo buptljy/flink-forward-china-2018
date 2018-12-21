@@ -31,7 +31,7 @@
 
 【分会场二03-李峰】FLINK在大规模实时无效广告流量检测中的应用：https://files.alicdn.com/tpsservice/c429c9351675f89a56000489519135a8.pdf
 
-【分会场二04-Piotr Nowojsk】Flink Streaming SQL 2018：https://files.alicdn.co/tpsservice/e5107b411d7ddae20e91d158ff1fd4a4.pdf
+【分会场二04-Piotr Nowojsk】Flink Streaming SQL 2018：https://files.alicdn.com/tpsservice/e5107b411d7ddae20e91d158ff1fd4a4.pdf
 
 【分会场二05-孟文瑞 / 于淼】Uber 商业性能指标生成与管理：https://files.alicdn.com/tpsservice/9bf841f251392aedcbb7cc98c5d140fa.pdf
 
