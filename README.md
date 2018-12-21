@@ -6,7 +6,7 @@
 
 【主会场03-蒋晓伟】Apache Flink® - Redefining Computation：https://files.alicdn.com/tpsservice/62fa5ebcd23ea0b8a956f2a06197b57a.pdf
 
-【主会场04-Stephan Ewen】Stream Processing takes on Everything：https://files.alicdn.com/tpsservice/2bdfb2e66ed8690b8dd7d1f0091038f4.pdf
+【主会场04-Stephan Ewen】Stream Processing takes on Everything：【Updating...】
 
 【主会场05-闵万里】城市级实时计算的力量：https://files.alicdn.com/tpsservice/5f3272c3212b77cd835ff020d9954480.pdf
 
@@ -27,15 +27,15 @@
 
 【分会场二01-Radu Tudoran】Real-Time AI in Huawei Cloud: Practicing with Streaming ML：https://files.alicdn.com/tpsservice/3d836d6366a800dc70f52a0ec0bb5bc5.pdf
 
-【分会场二02-Konstantin Knauf】Apache Flink® 1.7 and Beyond： https://files.alicdn.com/tpsservice/d073d2206e9d04fb89dbd6d3b8104c4e.pdf
+【分会场二02-Konstantin Knauf】Apache Flink® 1.7 and Beyond：【Updating...】
 
 【分会场二03-李峰】FLINK在大规模实时无效广告流量检测中的应用：https://files.alicdn.com/tpsservice/c429c9351675f89a56000489519135a8.pdf
 
-【分会场二04-Piotr Nowojsk】Flink Streaming SQL 2018：https://files.alicdn.com/tpsservice/e5107b411d7ddae20e91d158ff1fd4a4.pdf
+【分会场二04-Piotr Nowojsk】Flink Streaming SQL 2018：【Updating...】
 
 【分会场二05-孟文瑞 / 于淼】Uber 商业性能指标生成与管理：https://files.alicdn.com/tpsservice/9bf841f251392aedcbb7cc98c5d140fa.pdf
 
-【分会场二06-戴资力】Apache Flink 流式应用中状态的数据结构定义升级：https://files.alicdn.com/tpsservice/d5b322255b5f68e266928835ec6d2765.pdf
+【分会场二06-戴资力】Apache Flink 流式应用中状态的数据结构定义升级：【Updating...】
 
 ## 分会场三
 
