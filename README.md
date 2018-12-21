@@ -25,7 +25,7 @@
 
 ## 分会场二
 
-【分会场二01-Radu Tudoran】Flink Forward China 2018：https://files.alicdn.com/tpsservice/3d836d6366a800dc70f52a0ec0bb5bc5.pdf
+【分会场二01-Radu Tudoran】Real-Time AI in Huawei Cloud: Practicing with Streaming ML：https://files.alicdn.com/tpsservice/3d836d6366a800dc70f52a0ec0bb5bc5.pdf
 
 【分会场二02-Konstantin Knauf】Apache Flink® 1.7 and Beyond： https://files.alicdn.com/tpsservice/d073d2206e9d04fb89dbd6d3b8104c4e.pdf
 
